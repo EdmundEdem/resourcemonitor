@@ -14,9 +14,9 @@ DISK_THRESHOLD = 50
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_SENDER = "baobabsysmonitor@gmail.com"
-EMAIL_PASSWORD = "ymwv inny ujew dkvp"
-EMAIL_RECEIVER = "sheikhmoves@gmail.com"
+EMAIL_SENDER = ""
+EMAIL_PASSWORD = ""
+EMAIL_RECEIVER = ".."
 
 LOG_FILE = "/var/log/resource_monitor.log"
 
